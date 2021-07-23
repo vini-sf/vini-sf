@@ -4,7 +4,7 @@
 <h1 align="center"> 
  Bem vindo ao meu GitHub 🚀🎉
 </h1>
-Olá, tudo bem? me chamo Vinicius Soares, sou +1 apaixonado por tecnologia que aos poucos está se tornando um dev Full Stack 💻💙. Me formei bacharel em sistemas de informação pela Universidade Ceuma em 2018, desde de lá venho procurando aprender mais sobre esse mundo fantastico da programação e atualmente estou focado em me superar em cada projeto, acho que a programação é muito mais do que somente escrever codigos, mas é na verdade superar constantes desafios em busca de algo maior 😄.
+Olá, tudo bem? me chamo Vinicius Soares, sou +1 apaixonado por tecnologia que aos poucos está se tornando um dev Full Stack 💻💙. Me formei bacharel em sistemas de informação pela Universidade Ceuma em 2018, desde lá venho procurando aprender mais sobre esse mundo fantastico da programação e atualmente estou focado em me superar em cada projeto, acho que a programação é muito mais do que somente escrever codigos, mas é na verdade superar constantes desafios em busca de algo maior 😄.
 </div>
 <p align="center">
   <p> Fique a vontade para ver os trabalhos e repositórios publicados aqui, se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem. </p>
