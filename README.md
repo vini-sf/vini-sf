@@ -40,9 +40,9 @@ Olá, tudo bem? me chamo Vinicius Soares, sou +1 apaixonado por tecnologia que a
 </div>
     <br>
 <p align="center">
-  <a href="https://github.com/vini-sf/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-sf&show_icons=true&theme=tokyonight" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-sf&layout=compact&theme=tokyonight" style="max-width:100%;">
+  <a href="https://github.com/vinisf/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinisf&show_icons=true&theme=tokyonight" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisf&layout=compact&theme=tokyonight" style="max-width:100%;">
   </a>
 </p>
 
