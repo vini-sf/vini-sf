@@ -8,7 +8,7 @@ Olá, tudo bem? me chamo Vinicius Soares, sou +1 apaixonado por tecnologia que a
 </div>
 <p align="center">
   <p> Fique a vontade para ver os trabalhos e repositórios publicados aqui, se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem. </p>
-    <a href="https://www.linkedin.com/in/vinicius-soares-b68649212/">
+    <a href="https://www.linkedin.com/in/vinisoaresdev/">
         <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=vinicius-soares-b68649212&color=f0743e">
     </a>
     <a href="mailto:vinisferreira95@gmail.com">
