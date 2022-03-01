@@ -36,7 +36,7 @@ Olá, tudo bem? me chamo Vinicius Soares, sou +1 apaixonado por tecnologia que a
 </div>
 
 <div>
-    <h2>Dados e últimos resultados em meu GitHub</h2>
+    <h2>Dados e últimos resultados</h2>
 </div>
     <br>
 <p align="center">
